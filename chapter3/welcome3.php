@@ -1,3 +1,3 @@
 <?php
-print 'Welcome';
+print 'Welcome プリントで出力中';
 ?>
